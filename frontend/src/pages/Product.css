@@ -1,0 +1,54 @@
+.products-container {
+    padding: 20px;
+    background-color: #F5EEDC;
+  }
+  
+  .product-input {
+    margin-bottom: 20px;
+  }
+  
+  .product-input input {
+    padding: 8px;
+    font-size: 16px;
+    border: 1px solid #81B29A;
+    border-radius: 4px;
+    margin-right: 10px;
+  }
+  
+  .product-input button {
+    padding: 8px 15px;
+    background-color: #647A67;
+    color: #C5EFCB;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .product-input button:hover {
+    background-color: #3C433B;
+  }
+  
+  .product-list ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .product-list ul li {
+    margin: 10px 0;
+    font-size: 18px;
+  }
+  
+  .product-list ul li button {
+    background-color: #C70039;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  
+  .product-list ul li button:hover {
+    background-color: #e67e22;
+  }
+  

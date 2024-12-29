@@ -1,0 +1,19 @@
+.dashboard-container {
+    display: flex;
+  }
+  
+  .dashboard-content {
+    margin-left: 250px;
+    padding: 20px;
+    background-color: #F5EEDC;
+  }
+  
+  .dashboard-content h2 {
+    color: #3D2C29;
+  }
+  
+  .dashboard-content p {
+    color: #3C433B;
+    font-size: 16px;
+  }
+  

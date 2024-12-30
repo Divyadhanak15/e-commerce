@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
 import './Header.css';
 import profile from './../assets/profile.png';
-import logo from './../assets/logo.png';
 
 const Header = ({ toggleSidebar }) => {
   return (
@@ -10,7 +9,6 @@ const Header = ({ toggleSidebar }) => {
         ☰
       </button>
       <div className="header-logo">
-     <img src={logo}/>
      <h1>𝐸𝓁𝒾𝓉𝑒𝑀𝒶𝓇𝓉</h1>
       </div>
 
